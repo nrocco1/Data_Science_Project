@@ -1,0 +1,6 @@
+﻿Start,12/31/63,
+End,9/19/18,
+Frequency,D,
+Name,S&P 500 COMPOSITE - PRICE INDEX,Log_return
+Code,S&PCOMP(PI),log(P_t-/P_t-1)
+CURRENCY,U$,
